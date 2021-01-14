@@ -1,9 +1,8 @@
 # Classify Poses with Pose Estimation and Support Vector Machines (SVM)
 
 This repo contains an alwaysAI app and Jupyter Notebook to classify
-poses using Pose Estimation from alwaysAI
-(https://alwaysai.co/docs/application_development/core_computer_vision_services.html#pose-estimation)
-and machine learning tools from Scikit-Learn (https://scikit-learn.org/stable/).
+poses using [Pose Estimation from alwaysAI](https://alwaysai.co/docs/application_development/core_computer_vision_services.html#pose-estimation)
+and machine learning tools from [Scikit-Learn](https://scikit-learn.org/stable/).
 This tutorial will walk through training an SVM to classify a few common yoga poses.
 
 There are two parts to this repo: **pose-recorder** and **train-svm**,
