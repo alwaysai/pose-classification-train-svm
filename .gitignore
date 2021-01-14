@@ -1,0 +1,9 @@
+**/alwaysai.project.json
+**/alwaysai.target.json
+**/venv/
+**/models/
+**/images/
+**/in/
+**/normalized/
+**/*.csv
+**/*.ipynb
